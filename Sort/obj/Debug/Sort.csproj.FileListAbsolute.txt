@@ -1,0 +1,8 @@
+c:\users\alex\documents\visual studio 2012\Projects\Sort\Sort\bin\Debug\Sort.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Sort\Sort\bin\Debug\Sort.exe
+c:\users\alex\documents\visual studio 2012\Projects\Sort\Sort\bin\Debug\Sort.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Sort\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\Sort\Sort\obj\Debug\Sort.exe
+c:\users\alex\documents\visual studio 2012\Projects\Sort\Sort\obj\Debug\Sort.pdb
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Sort\Sort\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\Sort\Sort\bin\Debug\Newtonsoft.Json.xml
