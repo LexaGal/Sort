@@ -1,7 +1,7 @@
 ﻿using System;
 using Sort.Collection;
 
-namespace Sort.Algoritms
+namespace Sort.Algorithms
 {
     public abstract class SortAlgorithm<T> where T : IComparable<T>
     {

@@ -106,10 +106,10 @@ namespace Sort.Collection
         public override string ToString()
         {
             StringBuilder builder = new StringBuilder();
-            foreach (T it in Items)
-            {
-                builder.AppendFormat("{0}, ", it);
-            }
+            //foreach (T it in Items)
+            //{
+            //    builder.AppendFormat("{0}, ", it);
+            //}
             return builder.ToString();
         }
     }

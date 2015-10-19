@@ -45,14 +45,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Algoritms\HeapSort.cs" />
-    <Compile Include="Algoritms\SortAlgorithm.cs" />
+    <Compile Include="Algorithms\HeapSort.cs" />
+    <Compile Include="Algorithms\SortAlgorithm.cs" />
     <Compile Include="Collection\ISortableCollection.cs" />
     <Compile Include="Collection\Item.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Algoritms\SelectionSort.cs" />
-    <Compile Include="Algoritms\ShakerSort.cs" />
+    <Compile Include="Algorithms\SelectionSort.cs" />
+    <Compile Include="Algorithms\ShakerSort.cs" />
     <Compile Include="Collection\SortableCollection.cs" />
   </ItemGroup>
   <ItemGroup>

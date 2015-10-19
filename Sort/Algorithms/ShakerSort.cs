@@ -1,7 +1,7 @@
 using System;
 using Sort.Collection;
 
-namespace Sort.Algoritms
+namespace Sort.Algorithms
 {
     public class ShakeSort<T> : SortAlgorithm<T> where T : IComparable<T>
     {
@@ -15,7 +15,7 @@ namespace Sort.Algoritms
 
                 do
                 {
-                    CompareCounter+=2;
+                    CompareCounter += 2;
 
                     if (collection[beg].CompareTo(collection[beg + 1]) == 1)
                     {
